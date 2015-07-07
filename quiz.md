@@ -14,7 +14,7 @@ Dog
 
 ###What would constitute a “perfect” day for you?
 
-Your answer goes here
+Sunny weather and ultimate frisbee.
 
 ###Given the choice of anyone in the world, whom would you want as a dinner guest?
 
