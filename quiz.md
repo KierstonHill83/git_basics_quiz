@@ -10,7 +10,7 @@ Yellow
 
 ###Cats or Dogs?
 
-Your answer goes here
+Dog
 
 ###What would constitute a “perfect” day for you?
 
