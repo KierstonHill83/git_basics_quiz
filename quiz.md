@@ -6,7 +6,7 @@ Kierston Hill
 
 ###What is your favorite color?
 
-Your answer goes here
+Yellow
 
 ###Cats or Dogs?
 
